@@ -1,7 +1,10 @@
 # Weather Forecast
-Uses OpenWeather API
+Gets the weather forecast for the user's location.
 
 # to do
-show forecast to users
+
 add icons for weather descriptions
+add C F toggle
+add hourly, weekly forecasts
+
 
